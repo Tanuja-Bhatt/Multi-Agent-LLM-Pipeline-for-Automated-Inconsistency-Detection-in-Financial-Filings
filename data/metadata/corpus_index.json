@@ -1,0 +1,172 @@
+[
+  {
+    "ticker": "AAPL",
+    "company_name": "Apple",
+    "cik": "0000320193",
+    "filing_date": "2023-11-03",
+    "accession_number": "0000320193-23-000106",
+    "filing_path": "data/raw/filings/AAPL_2022.html",
+    "xbrl_path": "data/raw/xbrl/AAPL_xbrl.json",
+    "downloaded_at": "2026-08-05T16:02:46.338240"
+  },
+  {
+    "ticker": "MSFT",
+    "company_name": "Microsoft",
+    "cik": "0000789019",
+    "filing_date": "2023-07-27",
+    "accession_number": "0000950170-23-035122",
+    "filing_path": "data/raw/filings/MSFT_2022.html",
+    "xbrl_path": "data/raw/xbrl/MSFT_xbrl.json",
+    "downloaded_at": "2026-08-05T16:02:50.284250"
+  },
+  {
+    "ticker": "INTC",
+    "company_name": "Intel",
+    "cik": "0000050863",
+    "filing_date": "2023-01-27",
+    "accession_number": "0000050863-23-000006",
+    "filing_path": "data/raw/filings/INTC_2022.html",
+    "xbrl_path": "data/raw/xbrl/INTC_xbrl.json",
+    "downloaded_at": "2026-08-05T16:02:56.265518"
+  },
+  {
+    "ticker": "IBM",
+    "company_name": "IBM",
+    "cik": "0000051143",
+    "filing_date": "2023-02-28",
+    "accession_number": "0001558370-23-002376",
+    "filing_path": "data/raw/filings/IBM_2022.html",
+    "xbrl_path": "data/raw/xbrl/IBM_xbrl.json",
+    "downloaded_at": "2026-08-05T16:02:59.800460"
+  },
+  {
+    "ticker": "JNJ",
+    "company_name": "Johnson & Johnson",
+    "cik": "0000200406",
+    "filing_date": "2023-02-16",
+    "accession_number": "0000200406-23-000016",
+    "filing_path": "data/raw/filings/JNJ_2022.html",
+    "xbrl_path": "data/raw/xbrl/JNJ_xbrl.json",
+    "downloaded_at": "2026-08-05T16:03:04.123998"
+  },
+  {
+    "ticker": "PFE",
+    "company_name": "Pfizer",
+    "cik": "0000078003",
+    "filing_date": "2023-02-23",
+    "accession_number": "0000078003-23-000024",
+    "filing_path": "data/raw/filings/PFE_2022.html",
+    "xbrl_path": "data/raw/xbrl/PFE_xbrl.json",
+    "downloaded_at": "2026-08-05T16:03:08.360545"
+  },
+  {
+    "ticker": "UNH",
+    "company_name": "UnitedHealth Group",
+    "cik": "0000731766",
+    "filing_date": "2023-02-24",
+    "accession_number": "0000731766-23-000008",
+    "filing_path": "data/raw/filings/UNH_2022.html",
+    "xbrl_path": "data/raw/xbrl/UNH_xbrl.json",
+    "downloaded_at": "2026-08-05T16:03:12.020309"
+  },
+  {
+    "ticker": "ABT",
+    "company_name": "Abbott Laboratories",
+    "cik": "0000001800",
+    "filing_date": "2023-02-17",
+    "accession_number": "0001628280-23-004026",
+    "filing_path": "data/raw/filings/ABT_2022.html",
+    "xbrl_path": "data/raw/xbrl/ABT_xbrl.json",
+    "downloaded_at": "2026-08-05T16:03:15.585858"
+  },
+  {
+    "ticker": "MDT",
+    "company_name": "Medtronic",
+    "cik": "0001613103",
+    "filing_date": "2023-06-22",
+    "accession_number": "0001613103-23-000040",
+    "filing_path": "data/raw/filings/MDT_2022.html",
+    "xbrl_path": "data/raw/xbrl/MDT_xbrl.json",
+    "downloaded_at": "2026-08-05T16:03:19.372791"
+  },
+  {
+    "ticker": "AMZN",
+    "company_name": "Amazon",
+    "cik": "0001018724",
+    "filing_date": "2023-02-03",
+    "accession_number": "0001018724-23-000004",
+    "filing_path": "data/raw/filings/AMZN_2022.html",
+    "xbrl_path": "data/raw/xbrl/AMZN_xbrl.json",
+    "downloaded_at": "2026-08-05T16:03:30.631105"
+  },
+  {
+    "ticker": "TGT",
+    "company_name": "Target",
+    "cik": "0000027419",
+    "filing_date": "2023-03-08",
+    "accession_number": "0000027419-23-000015",
+    "filing_path": "data/raw/filings/TGT_2022.html",
+    "xbrl_path": "data/raw/xbrl/TGT_xbrl.json",
+    "downloaded_at": "2026-08-05T16:03:34.608830"
+  },
+  {
+    "ticker": "COST",
+    "company_name": "Costco",
+    "cik": "0000909832",
+    "filing_date": "2023-10-11",
+    "accession_number": "0000909832-23-000042",
+    "filing_path": "data/raw/filings/COST_2022.html",
+    "xbrl_path": "data/raw/xbrl/COST_xbrl.json",
+    "downloaded_at": "2026-08-05T16:03:38.323441"
+  },
+  {
+    "ticker": "PG",
+    "company_name": "Procter & Gamble",
+    "cik": "0000080424",
+    "filing_date": "2023-08-04",
+    "accession_number": "0000080424-23-000073",
+    "filing_path": "data/raw/filings/PG_2022.html",
+    "xbrl_path": "data/raw/xbrl/PG_xbrl.json",
+    "downloaded_at": "2026-08-05T16:03:42.138429"
+  },
+  {
+    "ticker": "XOM",
+    "company_name": "ExxonMobil",
+    "cik": "0000034088",
+    "filing_date": "2023-02-22",
+    "accession_number": "0000034088-23-000020",
+    "filing_path": "data/raw/filings/XOM_2022.html",
+    "xbrl_path": "data/raw/xbrl/XOM_xbrl.json",
+    "downloaded_at": "2026-08-05T16:03:51.351546"
+  },
+  {
+    "ticker": "CVX",
+    "company_name": "Chevron",
+    "cik": "0000093410",
+    "filing_date": "2023-02-23",
+    "accession_number": "0000093410-23-000009",
+    "filing_path": "data/raw/filings/CVX_2022.html",
+    "xbrl_path": "data/raw/xbrl/CVX_xbrl.json",
+    "downloaded_at": "2026-08-05T16:03:57.142510"
+  },
+  {
+    "ticker": "CAT",
+    "company_name": "Caterpillar",
+    "cik": "0000018230",
+    "filing_date": "2023-02-15",
+    "accession_number": "0000018230-23-000011",
+    "filing_path": "data/raw/filings/CAT_2022.html",
+    "xbrl_path": "data/raw/xbrl/CAT_xbrl.json",
+    "downloaded_at": "2026-08-05T16:04:02.592873"
+  },
+  {
+    "ticker": "HON",
+    "company_name": "Honeywell",
+    "cik": "0000773840",
+    "filing_date": "2023-02-10",
+    "accession_number": "0000773840-23-000013",
+    "filing_path": "data/raw/filings/HON_2022.html",
+    "xbrl_path": "data/raw/xbrl/HON_xbrl.json",
+    "downloaded_at": "2026-08-05T16:04:06.984164"
+  }
+]
