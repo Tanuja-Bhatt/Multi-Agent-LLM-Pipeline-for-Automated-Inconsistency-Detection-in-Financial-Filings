@@ -26,13 +26,17 @@ A verification framework measuring whether structured multi-agent decomposition 
 - **Member 4:** Domain Logic & Interface
 
 ## Repository Structure
+## Repository Structure
 
+```text
+.
 ├── data/
-│ ├── raw/
-│ │ ├── filings/ # 10-K HTML documents
-│ │ └── xbrl/ # XBRL JSON facts
-│ ├── metadata/ # Corpus index
-│ └── companies.csv # Company list (CIK mapping)
+│   ├── raw/
+│   │   ├── filings/          # 10-K HTML documents
+│   │   └── xbrl/             # XBRL JSON facts
+│   ├── metadata/             # Corpus index
+│   └── companies.csv         # Company list (CIK mapping)
 ├── scripts/
-│ └── fetch_edgar_data.py
+│   └── fetch_edgar_data.py
 └── README.md
+```
