@@ -14,7 +14,7 @@ A verification framework measuring whether structured multi-agent decomposition 
 ## Current Status: Phase 0 - Data Collection
 
 ### What's Done
-- [x] Company list finalized (25 S&P 500 companies)
+- [x] Company list finalized (17 S&P 500 companies)
 - [x] Data fetch script created
 - [ ] EDGAR corpus downloaded
 - [ ] XBRL facts extracted
@@ -26,3 +26,13 @@ A verification framework measuring whether structured multi-agent decomposition 
 - **Member 4:** Domain Logic & Interface
 
 ## Repository Structure
+
+├── data/
+│ ├── raw/
+│ │ ├── filings/ # 10-K HTML documents
+│ │ └── xbrl/ # XBRL JSON facts
+│ ├── metadata/ # Corpus index
+│ └── companies.csv # Company list (CIK mapping)
+├── scripts/
+│ └── fetch_edgar_data.py
+└── README.md
