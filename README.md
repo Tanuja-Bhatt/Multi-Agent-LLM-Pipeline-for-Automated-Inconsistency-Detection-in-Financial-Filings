@@ -26,7 +26,8 @@ Member 2: Retrieval / RAG Layer
 Member 3: Evaluation Harness
 Member 4: Domain Logic & Interface
 Repository Structure
-text
+
+```text
 .
 ├── data/
 │   ├── raw/
@@ -42,3 +43,4 @@ text
 ├── docs/
 │   └── phase0_status_brief.md # Full Phase 0 debugging record
 └── README.md
+```
