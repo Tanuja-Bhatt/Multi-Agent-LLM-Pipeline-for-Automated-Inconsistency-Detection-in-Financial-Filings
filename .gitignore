@@ -1,12 +1,21 @@
+# ============================================================
 # Python
+# ============================================================
+
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
 .Python
+
+# Virtual environments
+.venv/
+.venv_*/
 env/
 venv/
 ENV/
+
+# Packaging / build artifacts
 build/
 develop-eggs/
 dist/
@@ -23,19 +32,40 @@ wheels/
 .installed.cfg
 *.egg
 
-# IDEs
+
+# ============================================================
+# IDEs / Editors
+# ============================================================
+
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
 
-# Environment variables
-.env
 
-# Data files (we'll track metadata, not raw files)
+# ============================================================
+# Environment variables / secrets
+# ============================================================
+
+.env
+.env.*
+
+
+# ============================================================
+# Local data
+# ============================================================
+
+# Raw SEC filings and XBRL files
 data/raw/
 
+# Locally generated ChromaDB database
+data/chroma/
+
+
+# ============================================================
 # OS
+# ============================================================
+
 .DS_Store
 Thumbs.db
