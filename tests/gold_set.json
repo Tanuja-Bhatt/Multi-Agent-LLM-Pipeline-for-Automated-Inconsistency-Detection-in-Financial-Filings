@@ -1,0 +1,142 @@
+{
+  "C01": {
+    "ticker": "AAPL",
+    "query": "What were Apple's total net sales in 2022?",
+    "gold_chunk_ids": [
+      "AAPL_10K_7ee7322144cd_0166"
+    ]
+  },
+  "C02": {
+    "ticker": "AAPL",
+    "query": "What was Apple's net income in 2022?",
+    "gold_chunk_ids": [
+      "AAPL_10K_e3eaa053c697_0201"
+    ]
+  },
+  "C03": {
+    "ticker": "AAPL",
+    "query": "What were Apple's iPhone net sales in 2022?",
+    "gold_chunk_ids": [
+      "AAPL_10K_7ee7322144cd_0166"
+    ]
+  },
+  "C04": {
+    "ticker": "AAPL",
+    "query": "What was Apple's gross margin in 2022?",
+    "gold_chunk_ids": [
+      "AAPL_10K_896df8a69ca5_0172"
+    ]
+  },
+  "C05": {
+    "ticker": "JPM",
+    "query": "What was JPMorgan's total net revenue in 2022?",
+    "gold_chunk_ids": [
+      "JPM_10K_fc956b2fc902_0308"
+    ]
+  },
+  "C06": {
+    "ticker": "JPM",
+    "query": "What was JPMorgan's net income in 2022?",
+    "gold_chunk_ids": [
+      "JPM_10K_fc956b2fc902_0308"
+    ]
+  },
+  "C07": {
+    "ticker": "JPM",
+    "query": "What were JPMorgan's total assets at the end of 2022?",
+    "gold_chunk_ids": [
+      "JPM_10K_eac1f2aa5e67_1626"
+    ]
+  },
+  "C08": {
+    "ticker": "JPM",
+    "query": "What was JPMorgan's provision for credit losses in 2022?",
+    "gold_chunk_ids": [
+      "JPM_10K_4e821754008e_0352"
+    ]
+  },
+  "C09": {
+    "ticker": "WMT",
+    "query": "What were Walmart's total revenues in fiscal 2022?",
+    "gold_chunk_ids": [
+      "WMT_10K_d0c7d0b60069_0379"
+    ]
+  },
+  "C10": {
+    "ticker": "WMT",
+    "query": "What was Walmart's net income attributable to Walmart in fiscal 2022?",
+    "gold_chunk_ids": [
+      "WMT_10K_8c4d0d0cb35d_0439"
+    ]
+  },
+  "C11": {
+    "ticker": "WMT",
+    "query": "What was Walmart's operating income in fiscal 2022?",
+    "gold_chunk_ids": [
+      "WMT_10K_30bb6f3a4e83_0380"
+    ]
+  },
+  "C12": {
+    "ticker": "WMT",
+    "query": "What were Walmart's total assets in fiscal 2022?",
+    "gold_chunk_ids": [
+      "WMT_10K_c3bd98abc7ee_0384"
+    ]
+  },
+  "C13": {
+    "ticker": "MSFT",
+    "query": "What was Microsoft's revenue in fiscal 2022?",
+    "gold_chunk_ids": [
+      "MSFT_2022_931c925d17c7_0254"
+    ]
+  },
+  "C14": {
+    "ticker": "MSFT",
+    "query": "What was Microsoft's net income in fiscal year 2022?",
+    "gold_chunk_ids": [
+      "MSFT_2022_931c925d17c7_0254"
+    ]
+  },
+  "C15": {
+    "ticker": "AMZN",
+    "query": "What were Amazon's net sales in 2022?",
+    "gold_chunk_ids": [
+      "AMZN_2022_85558b6d8228_0224"
+    ]
+  },
+  "C16": {
+    "ticker": "AMZN",
+    "query": "What was Amazon's operating income in 2022?",
+    "gold_chunk_ids": [
+      "AMZN_2022_85558b6d8228_0224"
+    ]
+  },
+  "C17": {
+    "ticker": "GOOGL",
+    "query": "What was Google's revenue in 2022?",
+    "gold_chunk_ids": [
+      "GOOGL_2022_a50a51510f18_0348"
+    ]
+  },
+  "C18": {
+    "ticker": "GOOGL",
+    "query": "What was Google's net income in 2022?",
+    "gold_chunk_ids": [
+      "GOOGL_2022_48b4ac57d1d5_0296"
+    ]
+  },
+  "C19": {
+    "ticker": "INTC",
+    "query": "What was Intel's net revenue in 2022?",
+    "gold_chunk_ids": [
+      "INTC_2022_95d7c23ed204_0570"
+    ]
+  },
+  "C20": {
+    "ticker": "INTC",
+    "query": "What was Intel's net income in 2022?",
+    "gold_chunk_ids": [
+      "INTC_2022_e8de034f487f_0575"
+    ]
+  }
+}
